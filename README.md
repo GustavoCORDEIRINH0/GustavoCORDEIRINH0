@@ -11,4 +11,14 @@ tenho 15 anos, moro na minha casinha no interior , SJP/pr e sou aluno da diciplo
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<code> <i class="devicon-github-original-wordmark colored"></i>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
+
+</br>
+</br>
+<div display="inline-block">
+<p align="left"> Sou aluno do CE são josé</p>p>
+<p align="left"> Estou estudando HTML5, CSS3 e JAVASCRIPT </p>p>
+
+</br>
